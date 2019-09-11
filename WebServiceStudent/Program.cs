@@ -22,6 +22,7 @@ namespace WebServiceStudent
                     Console.WriteLine(column.ColumnName + ": " + row[column.ColumnName]);
                 Console.WriteLine("==================================");
             }
+            Purposely introducing error
         }
     }
 }

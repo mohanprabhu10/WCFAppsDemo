@@ -9,3 +9,11 @@ C:\Users\320063706\source\repos\WCFApps\WebServiceStudent\bin\Debug\StudentWebSe
 C:\Users\320063706\source\repos\WCFApps\WebServiceStudent\obj\Debug\WebServiceStudent.csproj.CopyComplete
 C:\Users\320063706\source\repos\WCFApps\WebServiceStudent\obj\Debug\WebServiceStudent.exe
 C:\Users\320063706\source\repos\WCFApps\WebServiceStudent\obj\Debug\WebServiceStudent.pdb
+C:\Users\320052453\Desktop\WCFApps\WebServiceStudent\bin\Debug\WebServiceStudent.exe.config
+C:\Users\320052453\Desktop\WCFApps\WebServiceStudent\bin\Debug\WebServiceStudent.exe
+C:\Users\320052453\Desktop\WCFApps\WebServiceStudent\bin\Debug\WebServiceStudent.pdb
+C:\Users\320052453\Desktop\WCFApps\WebServiceStudent\bin\Debug\StudentWebService.dll
+C:\Users\320052453\Desktop\WCFApps\WebServiceStudent\bin\Debug\StudentWebService.pdb
+C:\Users\320052453\Desktop\WCFApps\WebServiceStudent\obj\Debug\WebServiceStudent.csprojResolveAssemblyReference.cache
+C:\Users\320052453\Desktop\WCFApps\WebServiceStudent\obj\Debug\WebServiceStudent.exe
+C:\Users\320052453\Desktop\WCFApps\WebServiceStudent\obj\Debug\WebServiceStudent.pdb

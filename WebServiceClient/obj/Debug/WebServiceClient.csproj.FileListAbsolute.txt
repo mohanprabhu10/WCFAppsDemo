@@ -9,3 +9,11 @@ C:\Users\320063706\source\repos\WCFApps\WebServiceClient\bin\Debug\SampleWebServ
 C:\Users\320063706\source\repos\WCFApps\WebServiceClient\bin\Debug\SampleWebService.pdb
 C:\Users\320063706\source\repos\WCFApps\WebServiceClient\bin\Debug\SampleWebService.dll.config
 C:\Users\320063706\source\repos\WCFApps\WebServiceClient\obj\Debug\WebServiceClient.csproj.CopyComplete
+C:\Users\320052453\Desktop\WCFApps\WebServiceClient\bin\Debug\WebServiceClient.exe.config
+C:\Users\320052453\Desktop\WCFApps\WebServiceClient\bin\Debug\WebServiceClient.exe
+C:\Users\320052453\Desktop\WCFApps\WebServiceClient\bin\Debug\WebServiceClient.pdb
+C:\Users\320052453\Desktop\WCFApps\WebServiceClient\bin\Debug\SampleWebService.dll
+C:\Users\320052453\Desktop\WCFApps\WebServiceClient\bin\Debug\SampleWebService.pdb
+C:\Users\320052453\Desktop\WCFApps\WebServiceClient\obj\Debug\WebServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\320052453\Desktop\WCFApps\WebServiceClient\obj\Debug\WebServiceClient.exe
+C:\Users\320052453\Desktop\WCFApps\WebServiceClient\obj\Debug\WebServiceClient.pdb

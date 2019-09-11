@@ -5,3 +5,9 @@ C:\Users\320063706\source\repos\WCFApps\WcfWinService\bin\Debug\WcfWinService.ex
 C:\Users\320063706\source\repos\WCFApps\WcfWinService\bin\Debug\WcfWinService.pdb
 C:\Users\320063706\source\repos\WCFApps\WcfWinService\obj\Debug\WcfWinService.exe
 C:\Users\320063706\source\repos\WCFApps\WcfWinService\obj\Debug\WcfWinService.pdb
+C:\Users\320052453\Desktop\WCFApps\WcfWinService\bin\Debug\WcfWinService.exe.config
+C:\Users\320052453\Desktop\WCFApps\WcfWinService\bin\Debug\WcfWinService.exe
+C:\Users\320052453\Desktop\WCFApps\WcfWinService\bin\Debug\WcfWinService.pdb
+C:\Users\320052453\Desktop\WCFApps\WcfWinService\obj\Debug\WcfWinService.csprojResolveAssemblyReference.cache
+C:\Users\320052453\Desktop\WCFApps\WcfWinService\obj\Debug\WcfWinService.exe
+C:\Users\320052453\Desktop\WCFApps\WcfWinService\obj\Debug\WcfWinService.pdb

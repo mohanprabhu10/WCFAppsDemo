@@ -8,3 +8,11 @@ C:\Users\320063706\source\repos\WCFApps\WcfSelfHostingApp\obj\Debug\WcfSelfHosti
 C:\Users\320063706\source\repos\WCFApps\WcfSelfHostingApp\obj\Debug\WcfSelfHostingApp.csproj.CopyComplete
 C:\Users\320063706\source\repos\WCFApps\WcfSelfHostingApp\obj\Debug\WcfSelfHostingApp.exe
 C:\Users\320063706\source\repos\WCFApps\WcfSelfHostingApp\obj\Debug\WcfSelfHostingApp.pdb
+C:\Users\320052453\Desktop\WCFApps\WcfSelfHostingApp\bin\Debug\WcfSelfHostingApp.exe.config
+C:\Users\320052453\Desktop\WCFApps\WcfSelfHostingApp\bin\Debug\WcfSelfHostingApp.exe
+C:\Users\320052453\Desktop\WCFApps\WcfSelfHostingApp\bin\Debug\WcfSelfHostingApp.pdb
+C:\Users\320052453\Desktop\WCFApps\WcfSelfHostingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\320052453\Desktop\WCFApps\WcfSelfHostingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\320052453\Desktop\WCFApps\WcfSelfHostingApp\obj\Debug\WcfSelfHostingApp.csprojResolveAssemblyReference.cache
+C:\Users\320052453\Desktop\WCFApps\WcfSelfHostingApp\obj\Debug\WcfSelfHostingApp.exe
+C:\Users\320052453\Desktop\WCFApps\WcfSelfHostingApp\obj\Debug\WcfSelfHostingApp.pdb

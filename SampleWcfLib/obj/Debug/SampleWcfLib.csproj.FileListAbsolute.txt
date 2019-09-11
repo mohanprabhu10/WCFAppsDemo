@@ -5,3 +5,9 @@ C:\Users\320063706\source\repos\WCFApps\SampleWcfLib\bin\Debug\SampleWcfLib.dll
 C:\Users\320063706\source\repos\WCFApps\SampleWcfLib\bin\Debug\SampleWcfLib.pdb
 C:\Users\320063706\source\repos\WCFApps\SampleWcfLib\obj\Debug\SampleWcfLib.dll
 C:\Users\320063706\source\repos\WCFApps\SampleWcfLib\obj\Debug\SampleWcfLib.pdb
+C:\Users\320052453\Desktop\WCFApps\SampleWcfLib\bin\Debug\SampleWcfLib.dll.config
+C:\Users\320052453\Desktop\WCFApps\SampleWcfLib\bin\Debug\SampleWcfLib.dll
+C:\Users\320052453\Desktop\WCFApps\SampleWcfLib\bin\Debug\SampleWcfLib.pdb
+C:\Users\320052453\Desktop\WCFApps\SampleWcfLib\obj\Debug\SampleWcfLib.csprojResolveAssemblyReference.cache
+C:\Users\320052453\Desktop\WCFApps\SampleWcfLib\obj\Debug\SampleWcfLib.dll
+C:\Users\320052453\Desktop\WCFApps\SampleWcfLib\obj\Debug\SampleWcfLib.pdb

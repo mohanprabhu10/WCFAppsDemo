@@ -5,3 +5,9 @@ C:\Users\320063706\source\repos\WCFApps\CrossMachineService\obj\Debug\CrossMachi
 C:\Users\320063706\source\repos\WCFApps\CrossMachineService\obj\Debug\CrossMachineService.csproj.CoreCompileInputs.cache
 C:\Users\320063706\source\repos\WCFApps\CrossMachineService\obj\Debug\CrossMachineService.dll
 C:\Users\320063706\source\repos\WCFApps\CrossMachineService\obj\Debug\CrossMachineService.pdb
+C:\Users\320052453\Desktop\WCFApps\CrossMachineService\bin\CrossMachineService.dll.config
+C:\Users\320052453\Desktop\WCFApps\CrossMachineService\bin\CrossMachineService.dll
+C:\Users\320052453\Desktop\WCFApps\CrossMachineService\bin\CrossMachineService.pdb
+C:\Users\320052453\Desktop\WCFApps\CrossMachineService\obj\Debug\CrossMachineService.csprojResolveAssemblyReference.cache
+C:\Users\320052453\Desktop\WCFApps\CrossMachineService\obj\Debug\CrossMachineService.dll
+C:\Users\320052453\Desktop\WCFApps\CrossMachineService\obj\Debug\CrossMachineService.pdb

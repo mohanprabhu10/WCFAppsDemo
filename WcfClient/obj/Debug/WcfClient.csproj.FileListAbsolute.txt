@@ -5,3 +5,8 @@ C:\Users\320063706\source\repos\WCFApps\WcfClient\obj\Debug\WcfClient.csprojAsse
 C:\Users\320063706\source\repos\WCFApps\WcfClient\obj\Debug\WcfClient.csproj.CoreCompileInputs.cache
 C:\Users\320063706\source\repos\WCFApps\WcfClient\obj\Debug\WcfClient.exe
 C:\Users\320063706\source\repos\WCFApps\WcfClient\obj\Debug\WcfClient.pdb
+C:\Users\320052453\Desktop\WCFApps\WcfClient\bin\Debug\WcfClient.exe.config
+C:\Users\320052453\Desktop\WCFApps\WcfClient\bin\Debug\WcfClient.exe
+C:\Users\320052453\Desktop\WCFApps\WcfClient\bin\Debug\WcfClient.pdb
+C:\Users\320052453\Desktop\WCFApps\WcfClient\obj\Debug\WcfClient.exe
+C:\Users\320052453\Desktop\WCFApps\WcfClient\obj\Debug\WcfClient.pdb
