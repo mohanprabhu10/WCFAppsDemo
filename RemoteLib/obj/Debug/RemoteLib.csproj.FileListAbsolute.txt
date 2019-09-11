@@ -1,0 +1,6 @@
+C:\Users\320063706\source\repos\WCFApps\RemoteLib\bin\Debug\RemoteLib.dll
+C:\Users\320063706\source\repos\WCFApps\RemoteLib\bin\Debug\RemoteLib.pdb
+C:\Users\320063706\source\repos\WCFApps\RemoteLib\obj\Debug\RemoteLib.csprojAssemblyReference.cache
+C:\Users\320063706\source\repos\WCFApps\RemoteLib\obj\Debug\RemoteLib.csproj.CoreCompileInputs.cache
+C:\Users\320063706\source\repos\WCFApps\RemoteLib\obj\Debug\RemoteLib.dll
+C:\Users\320063706\source\repos\WCFApps\RemoteLib\obj\Debug\RemoteLib.pdb

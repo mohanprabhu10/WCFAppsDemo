@@ -1,0 +1,6 @@
+C:\Users\320063706\source\repos\WCFApps\WebApiClient\bin\Debug\WebApiClient.exe.config
+C:\Users\320063706\source\repos\WCFApps\WebApiClient\bin\Debug\WebApiClient.exe
+C:\Users\320063706\source\repos\WCFApps\WebApiClient\bin\Debug\WebApiClient.pdb
+C:\Users\320063706\source\repos\WCFApps\WebApiClient\obj\Debug\WebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\320063706\source\repos\WCFApps\WebApiClient\obj\Debug\WebApiClient.exe
+C:\Users\320063706\source\repos\WCFApps\WebApiClient\obj\Debug\WebApiClient.pdb

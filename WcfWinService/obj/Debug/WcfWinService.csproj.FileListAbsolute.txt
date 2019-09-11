@@ -1,0 +1,7 @@
+C:\Users\320063706\source\repos\WCFApps\WcfWinService\obj\Debug\WcfWinService.csprojAssemblyReference.cache
+C:\Users\320063706\source\repos\WCFApps\WcfWinService\obj\Debug\WcfWinService.csproj.CoreCompileInputs.cache
+C:\Users\320063706\source\repos\WCFApps\WcfWinService\bin\Debug\WcfWinService.exe.config
+C:\Users\320063706\source\repos\WCFApps\WcfWinService\bin\Debug\WcfWinService.exe
+C:\Users\320063706\source\repos\WCFApps\WcfWinService\bin\Debug\WcfWinService.pdb
+C:\Users\320063706\source\repos\WCFApps\WcfWinService\obj\Debug\WcfWinService.exe
+C:\Users\320063706\source\repos\WCFApps\WcfWinService\obj\Debug\WcfWinService.pdb

@@ -1,0 +1,6 @@
+C:\Users\320063706\source\repos\WCFApps\CrossMachineClient\bin\Debug\CrossMachineClient.exe.config
+C:\Users\320063706\source\repos\WCFApps\CrossMachineClient\bin\Debug\CrossMachineClient.exe
+C:\Users\320063706\source\repos\WCFApps\CrossMachineClient\bin\Debug\CrossMachineClient.pdb
+C:\Users\320063706\source\repos\WCFApps\CrossMachineClient\obj\Debug\CrossMachineClient.csproj.CoreCompileInputs.cache
+C:\Users\320063706\source\repos\WCFApps\CrossMachineClient\obj\Debug\CrossMachineClient.exe
+C:\Users\320063706\source\repos\WCFApps\CrossMachineClient\obj\Debug\CrossMachineClient.pdb

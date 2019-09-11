@@ -1,0 +1,7 @@
+C:\Users\320063706\source\repos\WCFApps\CrossMachineService\bin\CrossMachineService.dll.config
+C:\Users\320063706\source\repos\WCFApps\CrossMachineService\bin\CrossMachineService.dll
+C:\Users\320063706\source\repos\WCFApps\CrossMachineService\bin\CrossMachineService.pdb
+C:\Users\320063706\source\repos\WCFApps\CrossMachineService\obj\Debug\CrossMachineService.csprojAssemblyReference.cache
+C:\Users\320063706\source\repos\WCFApps\CrossMachineService\obj\Debug\CrossMachineService.csproj.CoreCompileInputs.cache
+C:\Users\320063706\source\repos\WCFApps\CrossMachineService\obj\Debug\CrossMachineService.dll
+C:\Users\320063706\source\repos\WCFApps\CrossMachineService\obj\Debug\CrossMachineService.pdb

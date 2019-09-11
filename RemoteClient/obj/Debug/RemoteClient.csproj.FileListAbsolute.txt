@@ -1,0 +1,9 @@
+C:\Users\320063706\source\repos\WCFApps\RemoteClient\bin\Debug\RemoteClient.exe.config
+C:\Users\320063706\source\repos\WCFApps\RemoteClient\bin\Debug\RemoteClient.exe
+C:\Users\320063706\source\repos\WCFApps\RemoteClient\bin\Debug\RemoteClient.pdb
+C:\Users\320063706\source\repos\WCFApps\RemoteClient\bin\Debug\RemoteLib.dll
+C:\Users\320063706\source\repos\WCFApps\RemoteClient\bin\Debug\RemoteLib.pdb
+C:\Users\320063706\source\repos\WCFApps\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+C:\Users\320063706\source\repos\WCFApps\RemoteClient\obj\Debug\RemoteClient.csproj.CopyComplete
+C:\Users\320063706\source\repos\WCFApps\RemoteClient\obj\Debug\RemoteClient.exe
+C:\Users\320063706\source\repos\WCFApps\RemoteClient\obj\Debug\RemoteClient.pdb
